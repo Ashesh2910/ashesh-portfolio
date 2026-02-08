@@ -1,0 +1,40 @@
+/* About Styles */
+.wrapper {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 4rem;
+    align-items: start;
+}
+
+.label {
+    font-family: var(--font-heading);
+    color: var(--text-secondary);
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 600;
+    position: sticky;
+    top: 120px;
+}
+
+.text p {
+    font-size: 2rem;
+    line-height: 1.5;
+    color: var(--text-primary);
+    font-weight: 400;
+}
+
+@media (max-width: 768px) {
+    .wrapper {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .label {
+        position: static;
+    }
+
+    .text p {
+        font-size: 1.5rem;
+    }
+}

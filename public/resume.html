@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Ashesh Samrajya</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.5;
+            color: #333;
+            max-width: 850px;
+            margin: 40px auto;
+            padding: 0 20px;
+            background: #f4f4f4;
+        }
+
+        .page {
+            background: white;
+            padding: 50px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 36px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #2c3e50;
+            text-align: center;
+        }
+
+        .contact-info {
+            text-align: center;
+            margin-top: 10px;
+            font-size: 14px;
+            color: #555;
+            border-bottom: 2px solid #2c3e50;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+
+        .section {
+            margin-bottom: 25px;
+        }
+
+        .section-title {
+            font-size: 16px;
+            font-weight: bold;
+            text-transform: uppercase;
+            color: #2c3e50;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+            letter-spacing: 1px;
+        }
+
+        .section-content {
+            font-size: 14px;
+        }
+
+        .job,
+        .project {
+            margin-bottom: 20px;
+        }
+
+        .header-row {
+            display: flex;
+            justify-content: space-between;
+            font-weight: bold;
+            font-size: 15px;
+        }
+
+        .sub-header-row {
+            display: flex;
+            justify-content: space-between;
+            font-style: italic;
+            font-size: 14px;
+            color: #555;
+            margin-bottom: 5px;
+        }
+
+        ul {
+            margin: 5px 0 10px 0;
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 4px;
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .skills-category {
+            margin-bottom: 10px;
+        }
+
+        .skills-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+            display: block;
+            color: #444;
+        }
+
+        .print-btn {
+            display: block;
+            width: 100%;
+            max-width: 200px;
+            margin: 0 auto 20px;
+            padding: 10px;
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            cursor: pointer;
+            border: none;
+        }
+
+        @media print {
+            body {
+                background: white;
+                margin: 0;
+                padding: 0;
+            }
+
+            .page {
+                box-shadow: none;
+                padding: 0;
+                width: 100%;
+            }
+
+            .print-btn {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <button onclick="window.print()" class="print-btn">Download PDF / Print</button>
+
+    <div class="page">
+        <header>
+            <h1>ASHESH SAMRAJYA</h1>
+            <div class="contact-info">
+                +91-7091912101 | archit.ashesh29@gmail.com | LinkedIn | Github | Streamlit
+            </div>
+        </header>
+
+        <section class="section">
+            <div class="section-title">SUMMARY</div>
+            <div class="section-content">
+                Data analytics professional with a strong quantitative and business focus, experienced in delivering
+                end-to-end analytics solutions that support operational decision-making and performance management.
+                Skilled in analyzing complex datasets, developing KPIs, and producing executive reporting using SQL,
+                Python, Excel, and visualization tools. Proven ability to work independently and collaboratively to
+                translate business requirements into datadriven insights.
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="section-title">KEY COMPETENCIES</div>
+            <div class="section-content skills-grid">
+                <div>
+                    <div class="skills-category">
+                        <span class="skills-title">Analytics & Technical Expertise</span>
+                        • Data Analytics & Business Intelligence<br>
+                        • SQL, Python, Excel, Power BI<br>
+                        • Exploratory Data Analysis (EDA) & Pattern Identification<br>
+                        • Statistical & Quantitative Analysis<br>
+                        • KPI Development, Monitoring & Performance Tracking
+                    </div>
+                </div>
+                <div>
+                    <div class="skills-category">
+                        <span class="skills-title">Business & Strategic Analysis</span>
+                        • Operational Analytics & Decision Support<br>
+                        • Risk & Issue Analysis (Severity, Prioritization)<br>
+                        • Business Impact Assessment & Insight Generation<br>
+                    </div>
+                    <div class="skills-category">
+                        <span class="skills-title">Collaboration & Communication</span>
+                        • Stakeholder Engagement & Business Storytelling<br>
+                        • Agile & Sprint-Based Project Execution
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="section-title">PROFESSIONAL EXPERIENCE</div>
+
+            <div class="job">
+                <div class="header-row">
+                    <span>Business Analyst Intern</span>
+                    <span>June 2025 – Aug 2025</span>
+                </div>
+                <div class="sub-header-row">
+                    <span>Dentsu Group | Pune</span>
+                </div>
+                <ul>
+                    <li>Supported campaign structuring, performance monitoring, and compliance reviews using Google Ads
+                        Manager and Meta Ads Manager.</li>
+                    <li>Analyzed historical campaign performance data to identify trends, optimization opportunities,
+                        and efficiency gaps across key metrics including CTR, CPC, CPA, and ROAS.</li>
+                    <li>Developed and automated stakeholder dashboards using Excel and Google Sheets to track KPIs and
+                        improve reporting efficiency.</li>
+                    <li>Partnered with cross-functional teams in an Agile environment to support digital marketing
+                        operations and analytics-driven decision-making.</li>
+                    <li>Prepared analytical reports and communication materials to ensure clear information flow between
+                        technical teams and business stakeholders.</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <div class="header-row">
+                    <span>Consultant & Social Media Intern</span>
+                    <span>Nov 2024 - Mar 2025</span>
+                </div>
+                <div class="sub-header-row">
+                    <span>Lotus AI | Remote</span>
+                </div>
+                <ul>
+                    <li>Supported social media campaign planning and execution by analyzing engagement metrics and
+                        content performance.</li>
+                    <li>Conducted market and competitor analysis to identify user acquisition opportunities and inform
+                        growth strategies.</li>
+                    <li>Created an investor pitch deck outlining the product value proposition and growth potential.
+                    </li>
+                    <li>Developed SEO-optimized app store and in-app content to improve visibility, discoverability, and
+                        user engagement.</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <div class="header-row">
+                    <span>Content Developer Intern</span>
+                    <span>Mar 2024 - Sept 2024</span>
+                </div>
+                <div class="sub-header-row">
+                    <span>Iris AI Innovations | Remote</span>
+                </div>
+                <ul>
+                    <li>Led end-to-end content strategy for website pages, blog posts, and training modules to support
+                        user engagement and organic growth.</li>
+                    <li>Wrote and edited SEO-optimized content tailored for course promotion, platform information, and
+                        learning resources.</li>
+                    <li>Used Google Analytics to track content performance, user engagement, and organic reach,
+                        iterating content strategy based on data-driven insights.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="section-title">PROJECTS</div>
+
+            <div class="project">
+                <div class="header-row">
+                    <span>Credit Card Fraud Detection and Risk Monitoring</span>
+                    <span>Jan 2026</span>
+                </div>
+                <div class="sub-header-row">
+                    <span>Tech Stack: Python, SQL, Scikit-learn, SHAP, Streamlit, ML</span>
+                </div>
+                <ul>
+                    <li>Designed and built an end-to-end credit card fraud detection and risk monitoring system focused
+                        on risk reduction.</li>
+                    <li>Developed a Random Forest–based model to generate probability-based fraud risk scores.</li>
+                    <li>Implemented risk tiering (Low / Medium / High) to prioritize reviews and minimize customer
+                        friction.</li>
+                    <li>Optimized decision thresholds by modeling fraud loss versus false-positive operational cost.
+                    </li>
+                    <li>Built an interactive Streamlit dashboard to visualize fraud KPIs and risk distributions.</li>
+                </ul>
+            </div>
+
+            <div class="project">
+                <div class="header-row">
+                    <span>Enterprise Data & Governance Analytics Project</span>
+                    <span>Jan 2026</span>
+                </div>
+                <div class="sub-header-row">
+                    <span>Tech Stack: Excel & Power BI</span>
+                </div>
+                <ul>
+                    <li>Collected, processed, and analyzed 60+ structured records across 3 datasets (IT assets,
+                        third-party vendors, issue logs).</li>
+                    <li>Designed and maintained 10+ dynamic KPIs and 6+ executive dashboard views.</li>
+                    <li>Defined data requirements and built structured data models including ownership and risk
+                        indicators.</li>
+                    <li>Ensured data quality by implementing validation checks across 100% of records.</li>
+                </ul>
+            </div>
+
+            <div class="project">
+                <div class="header-row">
+                    <span>Zomato Business Performance Dashboard</span>
+                    <span>May 2025 – June 2025</span>
+                </div>
+                <div class="sub-header-row">
+                    <span>Tech Stack: Power BI</span>
+                </div>
+                <ul>
+                    <li>Built a dynamic Power BI dashboard showcasing key KPIs including sales volume, order frequency,
+                        and customer ratings.</li>
+                    <li>Implemented drill-down analysis by city and year to enable deeper segmentation and trend
+                        identification.</li>
+                </ul>
+            </div>
+
+            <div class="project">
+                <div class="header-row">
+                    <span>Modern Data Warehouse</span>
+                    <span>June 2025</span>
+                </div>
+                <div class="sub-header-row">
+                    <span>Tech Stack: SQL Server (SSMS)</span>
+                </div>
+                <ul>
+                    <li>Designed a scalable data warehouse using Medallion Architecture (Bronze, Silver, Gold layers).
+                    </li>
+                    <li>Developed ETL pipelines to extract, clean, and transform ERP and CRM data.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="section-title">EDUCATIONAL QUALIFICATIONS</div>
+            <div class="job">
+                <div class="header-row">
+                    <span>Bachelor of Business Administration (BBA)</span>
+                    <span>2023-2026</span>
+                </div>
+                <div class="sub-header-row">
+                    <span>Doon Business School, Dehradun</span>
+                </div>
+            </div>
+            <div class="job" style="margin-bottom: 5px;">
+                <div class="header-row">
+                    <span>Intermediate</span>
+                    <span>2019</span>
+                </div>
+                <div class="sub-header-row">
+                    <span>Bihar Board of Open Schooling & Examination</span>
+                </div>
+            </div>
+            <div class="job">
+                <div class="header-row">
+                    <span>Matriculation</span>
+                    <span>2017</span>
+                </div>
+                <div class="sub-header-row">
+                    <span>Kendriya Vidyalaya, Varanasi</span>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="section-title">CERTIFICATIONS</div>
+            <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
+                <li>Tata GenAI Powered Data Analytics | Forage</li>
+                <li>Deloitte Australia Data Analytics | Forage</li>
+                <li>J.P. Morgan Quantitative Research | Forage</li>
+                <li>Citi Markets Quantitative Analysis | Forage</li>
+                <li>Accenture Strategy Consulting | Forage</li>
+                <li>IBM Data Visualization with Excel & Cognos</li>
+                <li>Six Sigma White Belt</li>
+            </ul>
+        </section>
+    </div>
+</body>
+
+</html>

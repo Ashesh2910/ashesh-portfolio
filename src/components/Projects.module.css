@@ -1,0 +1,85 @@
+.heading {
+    font-size: 3rem;
+    margin-bottom: 4rem;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.card {
+    background: var(--bg-card);
+    padding: 2rem;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    border-color: var(--accent-primary);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.cardHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+}
+
+.iconWrapper {
+    color: var(--accent-primary);
+}
+
+.links {
+    display: flex;
+    gap: 1rem;
+}
+
+.links a {
+    color: var(--text-secondary);
+}
+
+.links a:hover {
+    color: var(--text-primary);
+}
+
+.title {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.subtitle {
+    font-size: 0.9rem;
+    color: var(--accent-secondary);
+    margin-bottom: 1rem;
+    font-family: var(--font-body);
+}
+
+.description {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: auto;
+    /* Push tags to bottom */
+    padding-bottom: 1.5rem;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+}
+
+.tag {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    font-family: var(--font-body);
+}
