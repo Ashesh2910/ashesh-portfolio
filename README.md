@@ -1,91 +1,148 @@
-# 🚀 Ashesh Portfolio | Data Analytics • BI • AI Automation
+# 🌌 Ashesh Samrajya | Data Analyst Portfolio
 
-A modern **3D-style premium portfolio website** built to showcase **Data Analytics, BI dashboards, Databricks pipelines, AI automation systems, and enterprise consulting projects**.
+> Turning raw data into stories, dashboards, strategy, and business impact.
 
-🌐 **Live Website:** https://ashesh2910-portfolio-live.vercel.app/
-
----
-
-## ✨ About the Portfolio
-
-This portfolio is designed as a **consulting-grade personal brand website** focused on:
-
-* Data Analytics
-* Business Intelligence
-* Power BI dashboards
-* Databricks + PySpark projects
-* AI automation workflows
-* enterprise portfolio storytelling
-* client conversion-ready case studies
-
-The goal is to position the profile for **Capgemini, Genpact, Deloitte, Fractal, Tiger Analytics, and AI consulting roles**.
+![Portfolio Hero](./portfolio-preview/hero-homepage.png)
 
 ---
 
-## 🛠 Tech Stack
+## ✨ About This Portfolio
 
-* **React.js**
-* **Vite**
-* **Tailwind CSS**
-* **JavaScript**
-* **Responsive UI**
-* **Vercel Deployment**
-* **GitHub Actions**
-* **3D portfolio styling**
-* **smooth animations**
+This repository contains my **interactive 3D data analyst portfolio website**, designed to blend:
 
----
+* 📊 Data analytics storytelling
+* 🧠 business decision support
+* 🎨 premium UI/UX design
+* 🚀 modern frontend interactions
+* 🌌 immersive visual experience
 
-## 📂 Project Sections
+The portfolio is built to showcase my work in:
 
-* Hero section
-* About me
-* Skills & tools
-* Featured projects
-* Databricks retail pipeline
-* Power BI analytics dashboards
-* AI automation systems
-* Contact section
+* Risk Analytics
+* Dashboard Development
+* SQL + Python Projects
+* Power BI & Tableau
+* Databricks & Data Engineering
+* Strategic Business Analysis
+* Freelance Design Projects
+* AI + GenAI Data Solutions
 
 ---
 
-## 🚀 Featured Business Projects
+## 🛰️ Live Website
 
-### 📊 Retail Sales Data Pipeline
-
-Databricks + PySpark + Unity Catalog lakehouse architecture with Bronze → Silver → Gold data modelling.
-
-### 📈 Power BI Executive Dashboards
-
-Interactive KPI dashboards with drill-through, risk analysis, and executive reporting.
-
-### 🤖 AI Automation Systems
-
-Workflow automation, lead intelligence, CRM integrations, and AI-based decision support.
+🔗 **Portfolio:** https://ashesh2910-portfolio-live.vercel.app/
 
 ---
 
-## 🎯 Business Impact
+## 🖼️ Visual Showcase
 
-This portfolio is built to:
+### 🌠 Hero Section
 
-* attract recruiters
-* convert consulting clients
-* showcase measurable business outcomes
-* present enterprise-grade project delivery
-* improve ATS and GitHub credibility
-* support global data consulting roles
+![Hero](./portfolio-preview/hero-homepage.png)
 
 ---
 
+### 🛠️ Skills Universe
 
+![Skills](./portfolio-preview/skills-stack.png)
 
 ---
 
-## 👨‍💻 Author
+### 🏅 Certifications Wall
 
-**Ashesh Samrajya**
-Data Analytics | BI | Databricks | AI Automation | Business Consulting
+![Certifications](./portfolio-preview/certifications-wall.png)
+
+---
+
+### 📜 Certificate Modal Experience
+
+![Certificate Modal](./portfolio-preview/certificate-modal.png)
+
+---
+
+### 💼 Freelance Design Showcase
+
+![Freelance](./portfolio-preview/freelance-designs.png)
+
+---
+
+## ⚡ Core Highlights
+
+### 📊 Data Analytics Stack
+
+* SQL
+* Python
+* Excel
+* Power BI
+* Tableau
+* Streamlit
+* Databricks
+* EDA
+* Machine Learning
+* Risk Analytics
+* Strategic Analysis
+
+### 🎨 Design + UX
+
+* Figma
+* Canva
+* Presentation Design
+* Business Pitch Decks
+* Storytelling UI
+* Modern dark-space themed design
+
+### 🧠 Strategy
+
+* KPI storytelling
+* dashboard optimization
+* risk modelling
+* decision support systems
+* business consulting style case studies
+
+---
+
+## 🏆 Featured Sections
+
+### 📌 Certifications Showcase
+
+Interactive certification cards with:
+
+* preview modal
+* detailed competency breakdown
+* scrollable skill evidence
+* certificate viewer UX
+
+### 🎯 Freelance Deck Studio
+
+A visual storytelling section built for:
+
+* clinic brochures
+* café menu systems
+* brand storytelling
+* startup pitch decks
+* product narratives
+
+---
+
+## 🚀 Connect With Me
+
+* 🌐 Portfolio: https://ashesh2910-portfolio-live.vercel.app/
+* 💼 LinkedIn: add-your-link
+* 📧 Email: add-your-email
+* 🐙 GitHub: https://github.com/Ashesh2910
+
+---
+
+## ⭐ If You Like This
+
+If this portfolio inspired you, feel free to:
+
+* ⭐ star the repo
+* 🍴 fork it
+* 🤝 collaborate
+* 💼 hire for dashboards / portfolio builds / data storytelling
+
 
 # React + Vite
 
