@@ -1,75 +1,41 @@
 # 🌌 Ashesh Samrajya | Data Analyst Portfolio
 
-> Turning raw data into stories, dashboards, strategy, and business impact.
+> A cinematic data portfolio blending analytics, storytelling, premium UI, and business impact.
 
-![Portfolio Hero](./portfolio-preview/hero-homepage.png)
+![Hero Banner](assets/screenshots/hero-home.png)
 
 ---
 
 ## ✨ About This Portfolio
 
-This repository contains my **interactive 3D data analyst portfolio website**, designed to blend:
+This portfolio is designed as a **premium digital product experience** for recruiters, clients, and collaborators.
 
-* 📊 Data analytics storytelling
-* 🧠 business decision support
-* 🎨 premium UI/UX design
-* 🚀 modern frontend interactions
-* 🌌 immersive visual experience
+It combines:
 
-The portfolio is built to showcase my work in:
+* 📊 data storytelling
+* 📈 KPI dashboards
+* 🧠 business analytics
+* 🎨 UI/UX design
+* 🚀 frontend interactions
+* 🌌 immersive visual branding
 
-* Risk Analytics
-* Dashboard Development
-* SQL + Python Projects
-* Power BI & Tableau
-* Databricks & Data Engineering
-* Strategic Business Analysis
-* Freelance Design Projects
-* AI + GenAI Data Solutions
+The focus is not just showing projects, but creating an **experience that feels memorable**.
 
 ---
 
-## 🛰️ Live Website
+## 🌍 Live Portfolio
 
-🔗 **Portfolio:** https://ashesh2910-portfolio-live.vercel.app/
-
----
-
-## 🖼️ Visual Showcase
-
-### 🌠 Hero Section
-
-![Hero](./portfolio-preview/hero-homepage.png)
+🔗 **Visit Live:** https://ashesh2910-portfolio-live.vercel.app/
 
 ---
 
-### 🛠️ Skills Universe
+## 🛠️ Skills Ecosystem
 
-![Skills](./portfolio-preview/skills-stack.png)
+A modern visual showcase of technical + strategic strengths.
 
----
+![Skills](assets/screenshots/skills-section.png)
 
-### 🏅 Certifications Wall
-
-![Certifications](./portfolio-preview/certifications-wall.png)
-
----
-
-### 📜 Certificate Modal Experience
-
-![Certificate Modal](./portfolio-preview/certificate-modal.png)
-
----
-
-### 💼 Freelance Design Showcase
-
-![Freelance](./portfolio-preview/freelance-designs.png)
-
----
-
-## ⚡ Core Highlights
-
-### 📊 Data Analytics Stack
+### Core Skills
 
 * SQL
 * Python
@@ -78,70 +44,90 @@ The portfolio is built to showcase my work in:
 * Tableau
 * Streamlit
 * Databricks
-* EDA
-* Machine Learning
 * Risk Analytics
+* Machine Learning
+* EDA
 * Strategic Analysis
-
-### 🎨 Design + UX
-
 * Figma
 * Canva
-* Presentation Design
-* Business Pitch Decks
-* Storytelling UI
-* Modern dark-space themed design
-
-### 🧠 Strategy
-
-* KPI storytelling
-* dashboard optimization
-* risk modelling
-* decision support systems
-* business consulting style case studies
 
 ---
 
-## 🏆 Featured Sections
+## 🏆 Certification Showcase
 
-### 📌 Certifications Showcase
+An interactive certification wall designed like a premium product dashboard.
 
-Interactive certification cards with:
+![Certifications](assets/screenshots/certifications-grid.png)
 
-* preview modal
-* detailed competency breakdown
-* scrollable skill evidence
-* certificate viewer UX
+This section includes:
 
-### 🎯 Freelance Deck Studio
-
-A visual storytelling section built for:
-
-* clinic brochures
-* café menu systems
-* brand storytelling
-* startup pitch decks
-* product narratives
+* hover interactions
+* clickable cards
+* detailed modal views
+* certificate verification experience
+* competency breakdowns
 
 ---
 
-## 🚀 Connect With Me
+## 📜 Certificate Preview Experience
+
+Each certification opens into a rich visual certificate preview.
+
+![Certificate Preview](assets/screenshots/certificate-preview.png)
+
+---
+
+## 🧠 Deep Competency Breakdown
+
+Every certification also includes skill-level competency storytelling.
+
+![Certificate Details](assets/screenshots/certificate-details.png)
+
+This improves recruiter trust by showing:
+
+* practical outcomes
+* tools used
+* business scenarios
+* real deliverables
+
+---
+
+## 🎨 Freelance Design Universe
+
+A creative showcase for client-facing storytelling work.
+
+![Freelance Designs](assets/screenshots/freelance-designs.png)
+
+This section includes:
+
+* pitch decks
+* brochures
+* product storytelling
+* clinic branding
+* café menus
+* startup presentations
+* design systems
+
+---
+
+
+## 🚀 Connect
 
 * 🌐 Portfolio: https://ashesh2910-portfolio-live.vercel.app/
+* 🐙 GitHub: https://github.com/Ashesh2910
 * 💼 LinkedIn: add-your-link
 * 📧 Email: add-your-email
-* 🐙 GitHub: https://github.com/Ashesh2910
 
 ---
 
-## ⭐ If You Like This
+## ⭐ Support
 
-If this portfolio inspired you, feel free to:
+If this portfolio inspires you:
 
-* ⭐ star the repo
-* 🍴 fork it
-* 🤝 collaborate
-* 💼 hire for dashboards / portfolio builds / data storytelling
+* ⭐ Star the repo
+* 🍴 Fork it
+* 🤝 Collaborate
+* 💼 Hire for dashboard, analytics, or portfolio builds
 
 
 # React + Vite
