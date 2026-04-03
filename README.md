@@ -2,7 +2,7 @@
 
 > A cinematic data portfolio blending analytics, storytelling, premium UI, and business impact.
 
-![Hero Banner](assets/screenshots/hero-home.png)
+![Hero Banner](Screenshot 2026-04-04 001712.png)
 
 ---
 
