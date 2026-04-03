@@ -2,8 +2,8 @@
 
 > A cinematic data portfolio blending analytics, storytelling, premium UI, and business impact.
 
-(<img width="1902" height="912" alt="Screenshot 2026-04-04 001712" src="https://github.com/user-attachments/assets/09c73ad8-4b27-421a-86fa-8ad657b1ada7" />
-)
+<img width="1902" height="912" alt="Screenshot 2026-04-04 001712" src="https://github.com/user-attachments/assets/09c73ad8-4b27-421a-86fa-8ad657b1ada7" />
+
 
 ---
 
@@ -34,8 +34,8 @@ The focus is not just showing projects, but creating an **experience that feels 
 
 A modern visual showcase of technical + strategic strengths.
 
-![Skills](<img width="1897" height="909" alt="Screenshot 2026-04-04 001811" src="https://github.com/user-attachments/assets/6d8cdb79-3bd5-4e7c-b001-232bd7e7fc3c" />
-)
+<img width="1897" height="909" alt="Screenshot 2026-04-04 001811" src="https://github.com/user-attachments/assets/6d8cdb79-3bd5-4e7c-b001-232bd7e7fc3c" />
+
 
 ### Core Skills
 
@@ -59,8 +59,8 @@ A modern visual showcase of technical + strategic strengths.
 
 An interactive certification wall designed like a premium product dashboard.
 
-![Certifications](<img width="1894" height="904" alt="Screenshot 2026-04-04 001835" src="https://github.com/user-attachments/assets/b756e0aa-7637-4844-818d-c8aa56b4427b" />
-)
+<img width="1894" height="904" alt="Screenshot 2026-04-04 001835" src="https://github.com/user-attachments/assets/b756e0aa-7637-4844-818d-c8aa56b4427b" />
+
 
 This section includes:
 
@@ -76,8 +76,8 @@ This section includes:
 
 Each certification opens into a rich visual certificate preview.
 
-![Certificate Preview](<img width="1897" height="909" alt="Screenshot 2026-04-04 001859" src="https://github.com/user-attachments/assets/3e51531a-7c1f-4050-aefa-dd7cb3adaa46" />
-)
+<img width="1897" height="909" alt="Screenshot 2026-04-04 001859" src="https://github.com/user-attachments/assets/3e51531a-7c1f-4050-aefa-dd7cb3adaa46" />
+
 
 ---
 
@@ -85,8 +85,8 @@ Each certification opens into a rich visual certificate preview.
 
 Every certification also includes skill-level competency storytelling.
 
-![Certificate Details](<img width="1902" height="912" alt="Screenshot 2026-04-04 001921" src="https://github.com/user-attachments/assets/ade78744-b3c1-4ff8-9b7e-9cf19257e589" />
-)
+<img width="1902" height="912" alt="Screenshot 2026-04-04 001921" src="https://github.com/user-attachments/assets/ade78744-b3c1-4ff8-9b7e-9cf19257e589" />
+
 
 This improves recruiter trust by showing:
 
@@ -101,8 +101,8 @@ This improves recruiter trust by showing:
 
 A creative showcase for client-facing storytelling work.
 
-![Freelance Designs](<img width="1899" height="915" alt="Screenshot 2026-04-04 002003" src="https://github.com/user-attachments/assets/2f8a8dcc-8b94-4e08-81b4-96a29850b7da" />
-)
+<img width="1899" height="915" alt="Screenshot 2026-04-04 002003" src="https://github.com/user-attachments/assets/2f8a8dcc-8b94-4e08-81b4-96a29850b7da" />
+
 
 This section includes:
 
