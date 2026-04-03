@@ -121,8 +121,8 @@ This section includes:
 
 * 🌐 Portfolio: https://ashesh2910-portfolio-live.vercel.app/
 * 🐙 GitHub: https://github.com/Ashesh2910
-* 💼 LinkedIn: add-your-link
-* 📧 Email: add-your-email
+* 💼 LinkedIn: https://www.linkedin.com/in/ashesh-samrajya-b5174b1ab/
+* 📧 Email: archit.ashesh29@gmail.com
 
 ---
 
